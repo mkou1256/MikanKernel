@@ -46,3 +46,4 @@
 
 # firmware
 *.efi
+*.elf
